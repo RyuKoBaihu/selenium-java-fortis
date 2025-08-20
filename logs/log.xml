@@ -824,3 +824,164 @@
     <Instant epochSecond="1755659420" nanoOfSecond="891341300"/>
     <Message>Browser closed</Message>
   </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688077129" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688077" nanoOfSecond="129100400"/>
+    <Message>Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688077223" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688077" nanoOfSecond="223918100"/>
+    <Message>Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688078304" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688078" nanoOfSecond="304830100"/>
+    <Message>Browser initialized</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688081900" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688081" nanoOfSecond="900938800"/>
+    <Message>Browser closed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688500312" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688500" nanoOfSecond="312027200"/>
+    <Message>Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688500393" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688500" nanoOfSecond="393285800"/>
+    <Message>Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688501352" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688501" nanoOfSecond="352517600"/>
+    <Message>Browser initialized</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688503632" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688503" nanoOfSecond="632466000"/>
+    <Message>Start Date: 2024-01-15</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688503632" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688503" nanoOfSecond="632466000"/>
+    <Message>End Date: 2025-11-24</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688505171" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688505" nanoOfSecond="171762900"/>
+    <Message>Browser closed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688747923" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688747" nanoOfSecond="923220900"/>
+    <Message>Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688748015" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688748" nanoOfSecond="15758900"/>
+    <Message>Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688749285" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688749" nanoOfSecond="285852400"/>
+    <Message>Browser initialized</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688753164" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688753" nanoOfSecond="164007700"/>
+    <Message>Start Date: 2024-01-15</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688753172" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688753" nanoOfSecond="172112100"/>
+    <Message>End Date: 2025-11-24</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688753201" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688753" nanoOfSecond="201031500"/>
+    <Message>
+Comparing dates: 2024-01-15 a 2025-11-24</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688753201" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688753" nanoOfSecond="201031500"/>
+    <Message>2024-01-19 is within the allowed date range.</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688753201" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688753" nanoOfSecond="201031500"/>
+    <Message>2024-08-27 is within the allowed date range.</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688753201" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688753" nanoOfSecond="201031500"/>
+    <Message>2024-10-21 is within the allowed date range.</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688753201" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688753" nanoOfSecond="201031500"/>
+    <Message>2025-03-10 is within the allowed date range.</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688753328" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688753" nanoOfSecond="328283800"/>
+    <Message>Browser closed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688792305" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688792" nanoOfSecond="305410500"/>
+    <Message>Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688792415" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688792" nanoOfSecond="415622100"/>
+    <Message>Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688793366" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688793" nanoOfSecond="366733700"/>
+    <Message>Browser initialized</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688795651" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688795" nanoOfSecond="651165200"/>
+    <Message>Start Date: 2024-01-15</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688795656" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688795" nanoOfSecond="656856300"/>
+    <Message>End Date: 2025-11-24</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688797051" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688797" nanoOfSecond="51546900"/>
+    <Message>Comparing dates: 2024-01-15 a 2025-11-24</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688797051" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688797" nanoOfSecond="51546900"/>
+    <Message>2024-04-09 is within the allowed date range.</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688797051" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688797" nanoOfSecond="51546900"/>
+    <Message>2025-01-22 is within the allowed date range.</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688797051" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688797" nanoOfSecond="51546900"/>
+    <Message>2025-04-08 is within the allowed date range.</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688797051" thread="main" level="INFO" loggerName="Actions.CriteriaDatesActions" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688797" nanoOfSecond="51546900"/>
+    <Message>2025-05-28 is within the allowed date range.</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755688797181" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755688797" nanoOfSecond="181658800"/>
+    <Message>Browser closed</Message>
+  </Event>

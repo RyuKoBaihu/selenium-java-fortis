@@ -1,13 +1,14 @@
-<Configuration status="INFO">
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
     <Appenders>
-        <!-- Console Logger -->
         <Console name="Console" target="SYSTEM_OUT">
-            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %c{1} - %msg%n"/>
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %c - %msg%n"/>
         </Console>
 
-        <!-- File Logger -->
-        <File name="FileLogger" fileName="logs/log.xml">
-            <XmlLayout complete="true"/>
+        <File name="FileLogger" fileName="logs/test-log.log" append="false">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %c - %msg%n</Pattern>
+            </PatternLayout>
         </File>
     </Appenders>
 

@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
         glue = {"StepDefinitions","BrowserFactory"},
         monochrome = false,
         stepNotifications = true,
-        tags ="@buy_item"
+        tags ="@VerifyingDates"
 )
 public class TestRunner {
 
