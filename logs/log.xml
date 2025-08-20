@@ -624,3 +624,83 @@
     <Instant epochSecond="1755644886" nanoOfSecond="831731400"/>
     <Message>Browser closed</Message>
   </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755657897863" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755657897" nanoOfSecond="863374600"/>
+    <Message>Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755657897964" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755657897" nanoOfSecond="964372900"/>
+    <Message>Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755657899003" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755657899" nanoOfSecond="3181700"/>
+    <Message>Browser initialized</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755657936192" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755657936" nanoOfSecond="192982100"/>
+    <Message>Browser closed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658069601" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658069" nanoOfSecond="601022200"/>
+    <Message>Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658069694" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658069" nanoOfSecond="694146900"/>
+    <Message>Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658070633" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658070" nanoOfSecond="633796200"/>
+    <Message>Browser initialized</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658073024" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658073" nanoOfSecond="24953800"/>
+    <Message>Browser closed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658420137" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658420" nanoOfSecond="137782600"/>
+    <Message>Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658420236" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658420" nanoOfSecond="236696100"/>
+    <Message>Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658421169" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658421" nanoOfSecond="169035200"/>
+    <Message>Browser initialized</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658424278" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658424" nanoOfSecond="278396400"/>
+    <Message>Browser closed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658445935" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658445" nanoOfSecond="935168000"/>
+    <Message>Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658446027" thread="main" level="INFO" loggerName="io.github.bonigarcia.wdm.WebDriverManager" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658446" nanoOfSecond="27575200"/>
+    <Message>Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658446916" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658446" nanoOfSecond="916285100"/>
+    <Message>Browser initialized</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1755658450145" thread="main" level="INFO" loggerName="BrowserFactory.Hook" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1755658450" nanoOfSecond="145760700"/>
+    <Message>Browser closed</Message>
+  </Event>

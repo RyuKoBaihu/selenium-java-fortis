@@ -12,12 +12,12 @@ import static BrowserFactory.DriverFactory.getDriver;
 
 public class SelectUtils {
 
-    public static void selectByValueXpath(String xpath, String value) {
+    public static void selectByNameValue(String name, String value) {
         WebDriverWait wait = DriverFactory.getWebDriverWait();
 
         WebElement element = wait.until(
                 ExpectedConditions.refreshed(
-                ExpectedConditions.presenceOfElementLocated(By.xpath(xpath))
+                ExpectedConditions.presenceOfElementLocated(By.name(name))
                 )
         );
         Select dropdown = new Select(element);

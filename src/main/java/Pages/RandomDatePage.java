@@ -9,5 +9,6 @@ public class RandomDatePage {
     public final static String SELECT_END_DAY_NAME = "end_day";
     public final static String SELECT_END_MONTH_NAME = "end_month";
     public final static String SELECT_END_YEAR_NAME = "end_year";
+    public final static String BUTTON_GET_DATES = "//input[@type='submit' and @value='Get Dates']";
 
 }
