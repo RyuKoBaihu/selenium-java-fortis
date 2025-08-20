@@ -24,7 +24,7 @@ public class verifyDateSteps {
 
         @Then("I check if the order was finished")
         public void iCheckIfTheOrderWasFinished() {
-
+            criteriaDatesActions.compareRangeDate();
         }
 
 }
